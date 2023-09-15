@@ -26,9 +26,8 @@ export class Header extends ChildComponent {
         }),
         Search,
         new UserItem({
-          avatarPath:
-            "https://prisma-blog-ebon.vercel.app/blog/posts/type-safe_js_with_JsDoc.png",
-          name: "Max"
+          avatarPath: "https://i.ibb.co/Sn3bbxQ/avatar.png",
+          name: "Bas"
         })
       ],
       styles
